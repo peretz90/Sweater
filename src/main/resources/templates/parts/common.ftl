@@ -6,7 +6,8 @@
   <link rel="stylesheet" href="/static/style.css">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <link rel="stylesheet" href="/static/css/bootstrap.min.css">
-  <title></title>
+  <title>Sweater</title>
+  <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 </head>
 <body>
 <#include "navbar.ftl">
